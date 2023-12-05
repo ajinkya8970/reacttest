@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/reacttest/static/js/main.170b6645.js",
+    "static/js/787.d4aba7ab.chunk.js": "/reacttest/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/reacttest/index.html",
+    "main.170b6645.js.map": "/reacttest/static/js/main.170b6645.js.map",
+    "787.d4aba7ab.chunk.js.map": "/reacttest/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.170b6645.js"
+  ]
+}
